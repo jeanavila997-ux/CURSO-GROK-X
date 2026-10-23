@@ -1,0 +1,256 @@
+{
+  "curso": "Curso GROK",
+  "versao": "1.0.0",
+  "atualizado": "2026-10-23",
+  "modulos": [
+    {
+      "id": "plano",
+      "numero": "01",
+      "titulo": "Plano Inicial",
+      "pasta": "01-plano-inicial",
+      "icone": "🗺️",
+      "cor": "#7c5cff",
+      "resumo": "Objetivo do curso, mapa de 4 semanas e como estudar no Grok CLI.",
+      "aulas": [
+        { "id": "plano-1", "titulo": "Por que este curso existe", "minutos": 8 },
+        { "id": "plano-2", "titulo": "Mapa de 4 semanas", "minutos": 10 },
+        { "id": "plano-3", "titulo": "Setup da máquina do Jean", "minutos": 12 }
+      ]
+    },
+    {
+      "id": "estrutura",
+      "numero": "02",
+      "titulo": "Estrutura do Curso",
+      "pasta": "02-estrutura-do-curso",
+      "icone": "📚",
+      "cor": "#3b82f6",
+      "resumo": "Trilhas, níveis e como navegar pastas + portal.",
+      "aulas": [
+        { "id": "est-1", "titulo": "Trilhas: CLI, Bot, MCP, Ecossistema", "minutos": 10 },
+        { "id": "est-2", "titulo": "Níveis: Iniciante → Avançado", "minutos": 8 }
+      ]
+    },
+    {
+      "id": "workflow",
+      "numero": "03",
+      "titulo": "Workflow",
+      "pasta": "03-workflow",
+      "icone": "⚙️",
+      "cor": "#06b6d4",
+      "resumo": "Fluxo diário: pedir → planejar → executar → revisar → registrar.",
+      "aulas": [
+        { "id": "wf-1", "titulo": "Ciclo PEDRA", "minutos": 12 },
+        { "id": "wf-2", "titulo": "Quando usar plan mode", "minutos": 8 },
+        { "id": "wf-3", "titulo": "Checklist de sessão", "minutos": 6 }
+      ]
+    },
+    {
+      "id": "dev",
+      "numero": "04",
+      "titulo": "Desenvolvimento",
+      "pasta": "04-desenvolvimento",
+      "icone": "💻",
+      "cor": "#22c55e",
+      "resumo": "Codar com Grok: editar, testar, revisar e commitar.",
+      "aulas": [
+        { "id": "dev-1", "titulo": "Prompt de engenharia", "minutos": 15 },
+        { "id": "dev-2", "titulo": "Skills e subagents", "minutos": 12 },
+        { "id": "dev-3", "titulo": "Projetos reais do Jean", "minutos": 15 }
+      ]
+    },
+    {
+      "id": "metas",
+      "numero": "05",
+      "titulo": "Metas",
+      "pasta": "05-metas",
+      "icone": "🎯",
+      "cor": "#f59e0b",
+      "resumo": "OKRs pessoais: dominar CLI, bot, MCP e conexões Elon.",
+      "aulas": [
+        { "id": "meta-1", "titulo": "OKRs do Curso GROK", "minutos": 10 },
+        { "id": "meta-2", "titulo": "Quadro de progresso", "minutos": 8 }
+      ]
+    },
+    {
+      "id": "db",
+      "numero": "06",
+      "titulo": "Banco de Dados",
+      "pasta": "06-banco-de-dados",
+      "icone": "🗄️",
+      "cor": "#ec4899",
+      "resumo": "Progresso no localStorage + export JSON + anotações.",
+      "aulas": [
+        { "id": "db-1", "titulo": "Como o progresso é salvo", "minutos": 8 },
+        { "id": "db-2", "titulo": "Exportar / importar", "minutos": 6 }
+      ]
+    },
+    {
+      "id": "ferramentas",
+      "numero": "07",
+      "titulo": "Ferramentas",
+      "pasta": "07-ferramentas",
+      "icone": "🛠️",
+      "cor": "#8b5cf6",
+      "resumo": "Grok Build, Imagine, workflows, browser, shell.",
+      "aulas": [
+        { "id": "fer-1", "titulo": "Catálogo de tools", "minutos": 14 },
+        { "id": "fer-2", "titulo": "Imagine (imagem/vídeo)", "minutos": 10 }
+      ]
+    },
+    {
+      "id": "mcp",
+      "numero": "08",
+      "titulo": "MCP",
+      "pasta": "08-mcp",
+      "icone": "🔌",
+      "cor": "#14b8a6",
+      "resumo": "Model Context Protocol: GitHub, Gmail, REA, Mestre do PC…",
+      "aulas": [
+        { "id": "mcp-1", "titulo": "O que é MCP (analogia)", "minutos": 10 },
+        { "id": "mcp-2", "titulo": "Servidores na máquina do Jean", "minutos": 12 },
+        { "id": "mcp-3", "titulo": "search_tool + use_tool", "minutos": 10 }
+      ]
+    },
+    {
+      "id": "conexoes",
+      "numero": "09",
+      "titulo": "Conexões Livres",
+      "pasta": "09-conexoes-livre",
+      "icone": "🌐",
+      "cor": "#ef4444",
+      "resumo": "X, Grok, SpaceX e empresas de Elon para ideias e funções.",
+      "aulas": [
+        { "id": "cx-1", "titulo": "X (antigo Twitter)", "minutos": 10 },
+        { "id": "cx-2", "titulo": "Grok / xAI", "minutos": 12 },
+        { "id": "cx-3", "titulo": "SpaceX + Starlink", "minutos": 10 },
+        { "id": "cx-4", "titulo": "Mapa de empresas Elon", "minutos": 15 }
+      ]
+    },
+    {
+      "id": "slash",
+      "numero": "10",
+      "titulo": "Comandos Slash (/)",
+      "pasta": "10-comandos-slash",
+      "icone": "⌨️",
+      "cor": "#a855f7",
+      "resumo": "A lista enorme do /: como filtrar, favoritos e atalhos.",
+      "aulas": [
+        { "id": "sl-1", "titulo": "Por que aparecem 100+ opções", "minutos": 8 },
+        { "id": "sl-2", "titulo": "Como filtrar e memorizar", "minutos": 10 },
+        { "id": "sl-3", "titulo": "Top comandos do dia a dia", "minutos": 12 }
+      ]
+    },
+    {
+      "id": "bot",
+      "numero": "11",
+      "titulo": "Grok Bot",
+      "pasta": "11-grok-bot",
+      "icone": "🤖",
+      "cor": "#0ea5e9",
+      "resumo": "Grok no X, API, bots e automações.",
+      "aulas": [
+        { "id": "bot-1", "titulo": "Grok no X vs Grok Build CLI", "minutos": 10 },
+        { "id": "bot-2", "titulo": "Ideias de bot para o Jean", "minutos": 12 }
+      ]
+    }
+  ],
+  "empresasElon": [
+    {
+      "id": "xai",
+      "nome": "xAI",
+      "produto": "Grok, Colossus, API",
+      "melhoriasGrok": [
+        "Skills locais alinhadas ao produto",
+        "Workflows de pesquisa com Grok",
+        "Integração CLI + web + X"
+      ]
+    },
+    {
+      "id": "x",
+      "nome": "X (ex-Twitter)",
+      "produto": "Rede social + Grok embutido",
+      "melhoriasGrok": [
+        "Monitorar posts com tools X",
+        "Bot de resumo de threads",
+        "Radar de novidades via x_keyword_search"
+      ]
+    },
+    {
+      "id": "spacex",
+      "nome": "SpaceX",
+      "produto": "Foguetes, Starship",
+      "melhoriasGrok": [
+        "Dashboards de lançamento",
+        "Resumos de missões",
+        "Alertas de notícias Starship"
+      ]
+    },
+    {
+      "id": "starlink",
+      "nome": "Starlink",
+      "produto": "Internet satelital",
+      "melhoriasGrok": [
+        "Diagnóstico de conectividade",
+        "Comparar latência vs Wi-Fi local",
+        "Guia de cobertura"
+      ]
+    },
+    {
+      "id": "tesla",
+      "nome": "Tesla",
+      "produto": "EVs, Energy, FSD, Optimus",
+      "melhoriasGrok": [
+        "Assistente de manutenção EV",
+        "Análise de energia / Powerwall",
+        "Ideias de app Optimus + Grok"
+      ]
+    },
+    {
+      "id": "neuralink",
+      "nome": "Neuralink",
+      "produto": "BCI / implantes",
+      "melhoriasGrok": [
+        "Explicadores de papers BCI",
+        "Acessibilidade futura (voz/texto)",
+        "Resumos de trials públicos"
+      ]
+    },
+    {
+      "id": "boring",
+      "nome": "The Boring Company",
+      "produto": "Túneis / Loop",
+      "melhoriasGrok": [
+        "Simuladores educativos de tráfego",
+        "Mapas conceituais de Loop",
+        "Comparativos de mobilidade"
+      ]
+    },
+    {
+      "id": "paypal",
+      "nome": "PayPal (histórico)",
+      "produto": "Pagamentos (passado)",
+      "melhoriasGrok": [
+        "Estudo de caso de fintech",
+        "Lições de escala para produtos Grok"
+      ]
+    },
+    {
+      "id": "zip2",
+      "nome": "Zip2 (histórico)",
+      "produto": "Guias urbanos online",
+      "melhoriasGrok": [
+        "História do empreendedorismo Elon",
+        "Analogia com diretórios / MCP"
+      ]
+    },
+    {
+      "id": "openai",
+      "nome": "OpenAI (co-fundador histórico)",
+      "produto": "IA generativa (saída)",
+      "melhoriasGrok": [
+        "Comparar ecossistemas Grok vs outros",
+        "Entender por que xAI existe"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Curso GROK — Portal de Aprendizagem</title>
+  <meta name="description" content="Curso completo de Grok, Grok Bot, MCP, workflows e ecossistema Elon Musk." />
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="./assets/css/curso.css" />
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="brand-badge">G</div>
+        <div>
+          <h1>Curso GROK</h1>
+          <p>CLI · Bot · MCP · Ecossistema</p>
+        </div>
+      </div>
+
+      <input id="search" class="search" type="search" placeholder="Filtrar módulos…" aria-label="Filtrar módulos" />
+
+      <div class="nav-section">Navegação</div>
+      <button class="nav-item active" id="btn-home" type="button">
+        <span class="dot" style="background:var(--accent-2)"></span>
+        <span class="meta"><strong>Início</strong><span>Visão geral do curso</span></span>
+      </button>
+      <div class="nav-section">Módulos</div>
+      <div id="nav-modules"></div>
+
+      <div class="progress-box">
+        <h3>Progresso</h3>
+        <div class="bar"><i id="progress-bar"></i></div>
+        <p id="progress-text">0/0 aulas · 0%</p>
+      </div>
+    </aside>
+
+    <main class="main">
+      <section id="view-home">
+        <div class="hero">
+          <div class="card">
+            <h2>Domine o Grok do zero ao fluxo profissional</h2>
+            <p class="lead">
+              Portal interativo com plano, workflow, MCP, comandos <code>/</code>,
+              Grok Bot e conexões com X, SpaceX, Tesla e demais empresas do ecossistema Elon.
+              Progresso salvo no navegador — como um caderno digital.
+            </p>
+            <div class="chips">
+              <span class="chip">Modo professor</span>
+              <span class="chip">pt-BR</span>
+              <span class="chip">Código + design</span>
+              <span class="chip">Banco local</span>
+            </div>
+            <div class="toolbar" style="margin-top:18px;margin-bottom:0">
+              <button class="btn primary" id="btn-continue" type="button">Continuar de onde parei</button>
+              <button class="btn" id="btn-export" type="button">Exportar progresso</button>
+              <button class="btn" id="btn-import" type="button">Importar</button>
+              <button class="btn ghost" id="btn-reset" type="button">Zerar</button>
+              <input id="import-file" type="file" accept="application/json,.json" hidden />
+            </div>
+          </div>
+          <div class="card">
+            <div class="stat-grid">
+              <div class="stat"><b id="stat-mods">0</b><span>módulos</span></div>
+              <div class="stat"><b id="stat-aulas">0</b><span>aulas</span></div>
+              <div class="stat"><b id="stat-done">0</b><span>concluídas</span></div>
+              <div class="stat"><b id="stat-emp">0</b><span>empresas Elon</span></div>
+            </div>
+            <div class="content-block" style="margin-top:14px">
+              <h3 style="margin-top:0">Dica do professor</h3>
+              <p style="margin:0;color:var(--muted)">
+                A lista enorme do <strong>/</strong> no Grok CLI é normal: skills + workflows + comandos nativos.
+                No módulo 10 há um <em>simulador</em> para treinar o filtro digitando 2–3 letras.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="panel-title">
+          <h2>Módulos</h2>
+        </div>
+        <div class="grid" id="module-cards"></div>
+      </section>
+
+      <section id="view-module" class="hidden">
+        <div id="module-body"></div>
+      </section>
+    </main>
+  </div>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script src="./assets/js/curso.js"></script>
+</body>
+</html>
