@@ -29,6 +29,7 @@ Pasta de referência do **curso Grok**. Aqui ficam **apenas listas de links** (a
 👉 Veja **[COMANDOS.md](COMANDOS.md)** para todos os comandos oficiais de instalação, autenticação, permissões, MCP e skills, com notas de segurança e de Windows (adicionado em 24/10/2026).
 👉 Leia **[ANALISE-FERRAMENTAS.md](ANALISE-FERRAMENTAS.md)** para a explicação (modo professor) de skills, ferramentas e funções.
 👉 Consulte **[WINGET-PACOTES-GROK.md](WINGET-PACOTES-GROK.md)** para o mapa de `winget find "grok"` (xAI vs terceiros vs coincidências como ngrok/Sigrok).
+👉 Depois de instalar o Bot: **[INTEGRACAO-ASSINATURA.md](INTEGRACAO-ASSINATURA.md)** — mapa Build + Bot + App + API e permissões locais.
 
 ## Organização
 

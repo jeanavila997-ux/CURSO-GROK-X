@@ -147,10 +147,11 @@
       "pasta": "11-grok-bot",
       "icone": "🤖",
       "cor": "#0ea5e9",
-      "resumo": "Grok no X, API, bots e automações.",
+      "resumo": "App grok.com × Build CLI × Grok Bot 0.75.5 instalado + login Cursor/SuperGrok.",
       "aulas": [
-        { "id": "bot-1", "titulo": "Grok no X vs Grok Build CLI", "minutos": 10 },
-        { "id": "bot-2", "titulo": "Ideias de bot para o Jean", "minutos": 12 }
+        { "id": "bot-1", "titulo": "Três superfícies + API", "minutos": 10 },
+        { "id": "bot-2", "titulo": "Login, link SuperGrok e permissões locais", "minutos": 12 },
+        { "id": "bot-3", "titulo": "Ideias de bot para o Jean", "minutos": 12 }
       ]
     },
     {
