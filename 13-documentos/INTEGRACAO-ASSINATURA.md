@@ -78,11 +78,14 @@ Na UI: **Settings → Computer → Your computer → Execution on this computer*
 ⚠️ A própria doc recomenda **Never allow** por padrão. **Always allow** vale para **todos** os Bots — não use Bots separados como fronteira de segurança.  
 Fonte: https://docs.x.ai/grok-bot/approvals-security-and-privacy
 
-**Sugestão para o Jean (fusão local controlada):**
+**Decisão do Jean (24/10/2026):** **Always allow** neste PC — alinhado ao Build (`always-approve`).
 
-1. Comece com **Ask every time** na primeira semana.
-2. Quando confiar no fluxo, mude para **Always allow** se quiser o mesmo espírito do Build.
-3. Senhas / 2FA: use **Take over** → digite você → **I'm done** (o Bot não vê a senha).
+Como aplicar (a preferência só grava **depois do login**, na UI do app; não há chave estável pré-auth no perfil):
+
+1. Faça Sign in with Cursor + link SuperGrok.
+2. Na primeira pergunta “Allow Grok Bot and all Bots to run commands on your local computer?”, escolha **Always allow**.
+3. Ou depois: **Settings → Computer → Your computer → Execution on this computer → Always allow**.
+4. Senhas / 2FA: use **Take over** → digite você → **I'm done** (o Bot não vê a senha).
 
 ---
 
