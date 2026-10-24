@@ -1,0 +1,334 @@
+categoria,titulo,url,status,descricao
+01-site-oficial,SpaceXSI,https://x.ai/,200 ✅,"Página inicial da SpaceXSI (antiga xAI), empresa que cria o Grok."
+01-site-oficial,Grok — Useful AI Chatbot with Voice & Image Generation,https://x.ai/grok,200 ✅,"Página do produto Grok (chat, voz, geração de imagem)."
+01-site-oficial,"SpaceXSI API: Grok Models, API Keys & Pricing",https://x.ai/api,200 ✅,"Página da API: modelos Grok, chaves de API e preços."
+01-site-oficial,"Grok Voice API: Voice Agents, TTS & STT",https://x.ai/api/voice,200 ✅,"Página da API de voz (agentes de voz, TTS e STT)."
+01-site-oficial,Grok Imagine API: Image & Video Generation,https://x.ai/api/imagine,200 ✅,Página da API Grok Imagine (imagem e vídeo).
+01-site-oficial,Voice Agent Builder: Create Your Own Voice Agent in Under 2 Minutes,https://x.ai/voice,200 ✅,Voice Agent Builder: criar um agente de voz sem código.
+01-site-oficial,Grok Build,https://x.ai/build,200 ✅,Página do Grok Build (agente de programação no terminal).
+01-site-oficial,AI teammates that finish the work | Grok Bot,https://x.ai/bot,200 ✅,Página do Grok Bot (colegas de equipe de IA em computador na nuvem).
+01-site-oficial,Grok Bot Marketplace,https://x.ai/bot/marketplace,200 ✅,Marketplace de Bots prontos para Grok Bot.
+01-site-oficial,Grok Bot Guides,https://x.ai/bot/guides,200 ✅,Guias oficiais de uso do Grok Bot.
+01-site-oficial,Grok Bot 101 · Grok Bot Guides,https://x.ai/bot/guides/grok-bot-101,200 ✅,Guia introdutório do Grok Bot (101).
+01-site-oficial,Templates for Grok Bot · Grok Bot Guides,https://x.ai/bot/guides/templates-for-grok-bot,200 ✅,Modelos (templates) prontos para Grok Bot.
+01-site-oficial,Use cases · Grok Bot,https://x.ai/bot/use-cases,200 ✅,Casos de uso do Grok Bot.
+01-site-oficial,"Build Mode: Create and Share Websites, Apps & Games with Grok",https://x.ai/grok/build-mode,200 ✅,"Build Mode: criar sites, apps e jogos dentro do chat do Grok."
+01-site-oficial,SpaceXSI for Business,https://x.ai/grok/business,200 ✅,Grok para empresas (Business/Enterprise).
+01-site-oficial,Use Cases: AI Solutions for Every Workflow,https://x.ai/grok/use-cases,200 ✅,Casos de uso do Grok por área de trabalho.
+01-site-oficial,Grok for Google Workspace,https://x.ai/grok/workspace,200 ✅,Complemento do Grok para Google Workspace.
+01-site-oficial,Grok for Excel,https://x.ai/grok/excel,200 ✅,Complemento do Grok para Excel.
+01-site-oficial,Grok for Word,https://x.ai/grok/word,200 ✅,Complemento do Grok para Word.
+01-site-oficial,Grok for PowerPoint,https://x.ai/grok/powerpoint,200 ✅,Complemento do Grok para PowerPoint.
+01-site-oficial,Grok for Outlook,https://x.ai/grok/outlook,200 ✅,Complemento do Grok para Outlook.
+01-site-oficial,Customer Stories,https://x.ai/stories,200 ✅,Histórias de clientes que usam Grok/API.
+01-site-oficial,Open Source: Grok Build Coding Agent,https://x.ai/open-source,200 ✅,Página de código aberto (Grok Build open source).
+01-site-oficial,Company: Accelerating Scientific Discovery,https://x.ai/company,200 ✅,Sobre a empresa e missão.
+01-site-oficial,Safety,https://x.ai/safety,200 ✅,Página de segurança de IA (safety).
+01-site-oficial,Security: Data Protection & Trust,https://x.ai/security,200 ✅,Segurança e proteção de dados (trust).
+01-site-oficial,Legal,https://x.ai/legal,200 ✅,Central de documentos legais.
+01-site-oficial,Consumer FAQs,https://x.ai/legal/faq,200 ✅,FAQ do consumidor (app Grok e grok.com).
+01-site-oficial,Acceptable Use Policy,https://x.ai/legal/acceptable-use-policy,200 ✅,Política de uso aceitável.
+01-site-oficial,Welcome — SpaceXSI API & Developer Tools for Grok | SpaceXSI Console,https://console.x.ai/,200 ✅ (redireciona → https://console.x.ai/home),"Console de desenvolvedor: chaves de API, uso, cobrança, arquivos e coleções (exige login)."
+01-site-oficial,Sign In to Your SpaceXSI API Account | SpaceXSI Accounts,https://accounts.x.ai/,200 ✅ (redireciona → https://accounts.x.ai/sign-in?redirect=account&return_to=%2F),Login da conta SpaceXSI/xAI (exige login).
+01-site-oficial,SpaceXSI Status,https://status.x.ai/,200 ✅,"Status em tempo real dos serviços (API, apps)."
+01-site-oficial,SpaceX Super Intelligence (@SpaceXSI) / X,https://x.com/xai,200 ✅ (redireciona → https://x.com/spacexsi),Conta oficial no X (o handle @xai redireciona para @SpaceXSI).
+01-site-oficial,[rótulo] @grok no X,https://x.com/grok,200 ✅,Conta oficial do @grok no X (título não retornado pela página).
+02-documentacao-api,Grok API Documentation,https://docs.x.ai/overview,200 ✅,Página inicial da documentação da API (ponto de partida).
+02-documentacao-api,Grok API Quickstart: Get Your API Key,https://docs.x.ai/developers/quickstart,200 ✅,Quickstart: primeira requisição à API em minutos.
+02-documentacao-api,Generate Text,https://docs.x.ai/developers/model-capabilities/text/generate-text,200 ✅,Gerar texto com a Responses API (o básico).
+02-documentacao-api,Streaming,https://docs.x.ai/developers/model-capabilities/text/streaming,200 ✅,Streaming de respostas token a token.
+02-documentacao-api,Reasoning,https://docs.x.ai/developers/model-capabilities/text/reasoning,200 ✅,"Raciocínio (reasoning effort, conteúdo de raciocínio criptografado)."
+02-documentacao-api,Best Practices Guide,https://docs.x.ai/developers/model-capabilities/text/best-practices,200 ✅,Guia de boas práticas de prompt e uso de texto.
+02-documentacao-api,Comparison with Chat Completions,https://docs.x.ai/developers/model-capabilities/text/comparison,200 ✅,Migração: Responses API vs Chat Completions.
+02-documentacao-api,Chat Completions,https://docs.x.ai/developers/model-capabilities/legacy/chat-completions,200 ✅,"Chat Completions (API legada, compatível com OpenAI)."
+02-documentacao-api,Image Understanding,https://docs.x.ai/developers/model-capabilities/images/understanding,200 ✅,Entendimento de imagens (visão) como entrada.
+02-documentacao-api,Chat with Files,https://docs.x.ai/developers/model-capabilities/files/chat-with-files,200 ✅,"Conversar com arquivos anexados (PDF, CSV etc.)."
+02-documentacao-api,Files Overview,https://docs.x.ai/developers/files,200 ✅,Visão geral de Files e Collections.
+02-documentacao-api,Managing Files,https://docs.x.ai/developers/files/managing-files,200 ✅,"Enviar, listar e apagar arquivos."
+02-documentacao-api,Public URLs,https://docs.x.ai/developers/files/public-urls,200 ✅,URLs públicas para arquivos armazenados.
+02-documentacao-api,Collections,https://docs.x.ai/developers/files/collections,200 ✅,Collections: bases de conhecimento para RAG.
+02-documentacao-api,Using Collections via API,https://docs.x.ai/developers/files/collections/api,200 ✅,Gerenciar Collections via API.
+02-documentacao-api,Collection Metadata,https://docs.x.ai/developers/files/collections/metadata,200 ✅,Metadados de documentos em Collections (filtros).
+02-documentacao-api,Prompt Caching,https://docs.x.ai/developers/advanced-api-usage/prompt-caching,200 ✅,Prompt caching: reaproveitar prefixos para economizar.
+02-documentacao-api,How Prompt Caching Works,https://docs.x.ai/developers/advanced-api-usage/prompt-caching/how-it-works,200 ✅,Como o prompt caching funciona.
+02-documentacao-api,Maximizing Cache Hits,https://docs.x.ai/developers/advanced-api-usage/prompt-caching/maximizing-cache-hits,200 ✅,Como maximizar acertos de cache.
+02-documentacao-api,What Breaks Caching,https://docs.x.ai/developers/advanced-api-usage/prompt-caching/multi-turn,200 ✅,O que quebra o cache em conversas multi-turno.
+02-documentacao-api,Usage & Pricing,https://docs.x.ai/developers/advanced-api-usage/prompt-caching/usage-and-pricing,200 ✅,Uso e preço do cache.
+02-documentacao-api,Best Practices & FAQ,https://docs.x.ai/developers/advanced-api-usage/prompt-caching/best-practices,200 ✅,Boas práticas e FAQ de cache.
+02-documentacao-api,Context Compaction,https://docs.x.ai/developers/advanced-api-usage/context-compaction,200 ✅,Compactação de contexto para conversas/agentes longos.
+02-documentacao-api,Priority Processing,https://docs.x.ai/developers/advanced-api-usage/priority-processing,200 ✅,Processamento prioritário (service_tier: priority).
+02-documentacao-api,Batch API,https://docs.x.ai/developers/advanced-api-usage/batch-api,200 ✅,Batch API: processar muitas requisições em lote.
+02-documentacao-api,Deferred Chat Completions,https://docs.x.ai/developers/advanced-api-usage/deferred-chat-completions,200 ✅,Completions adiadas (buscar o resultado depois).
+02-documentacao-api,Asynchronous Requests,https://docs.x.ai/developers/advanced-api-usage/async,200 ✅,Requisições assíncronas.
+02-documentacao-api,WebSocket Mode,https://docs.x.ai/developers/advanced-api-usage/websocket-mode,200 ✅,Modo WebSocket.
+02-documentacao-api,mTLS Authentication,https://docs.x.ai/developers/advanced-api-usage/mtls,200 ✅,Autenticação mTLS.
+02-documentacao-api,Regional Endpoints,https://docs.x.ai/developers/advanced-api-usage/regions,200 ✅,Endpoints regionais (ex.: EUA).
+02-documentacao-api,Cost Tracking,https://docs.x.ai/developers/cost-tracking,200 ✅,Acompanhar custos por requisição.
+02-documentacao-api,Debugging Errors,https://docs.x.ai/developers/debugging,200 ✅,Depurar erros da API.
+02-documentacao-api,Using Management API,https://docs.x.ai/developers/management-api-guide,200 ✅,"Guia da Management API (contas, chaves, cobrança)."
+02-documentacao-api,FAQ - General,https://docs.x.ai/developers/faq/general,200 ✅,FAQ geral da API.
+02-documentacao-api,FAQ - API Accounts (Developers),https://docs.x.ai/developers/faq/accounts,200 ✅,FAQ de contas (desenvolvedores).
+02-documentacao-api,FAQ - API Billing (Developers),https://docs.x.ai/developers/faq/billing,200 ✅,FAQ de cobrança (desenvolvedores).
+02-documentacao-api,FAQ - API Security (Developers),https://docs.x.ai/developers/faq/security,200 ✅,FAQ de segurança (desenvolvedores).
+02-documentacao-api,FAQ - API Team Management,https://docs.x.ai/developers/faq/team-management,200 ✅,FAQ de gestão de times.
+02-documentacao-api,"Billing, Credits & Invoices",https://docs.x.ai/console/billing,200 ✅,"Console: cobrança, créditos e faturas."
+02-documentacao-api,Using Collections in Console,https://docs.x.ai/console/collections,200 ✅,Console: usar Collections pela interface.
+02-documentacao-api,Usage Explorer,https://docs.x.ai/console/usage,200 ✅,Console: explorador de uso.
+02-documentacao-api,FAQ - API Accounts (Console),https://docs.x.ai/console/faq/accounts,200 ✅,FAQ de contas (Console).
+02-documentacao-api,FAQ - API Billing (Console),https://docs.x.ai/console/faq/billing,200 ✅,FAQ de cobrança (Console).
+02-documentacao-api,FAQ - API Security (Console),https://docs.x.ai/console/faq/security,200 ✅,FAQ de segurança (Console).
+02-documentacao-api,API Reference - REST API Reference,https://docs.x.ai/developers/rest-api-reference/inference,200 ✅,Referência REST: Inference API (visão geral).
+02-documentacao-api,Responses | Inference API - REST API Reference,https://docs.x.ai/developers/rest-api-reference/inference/responses,200 ✅,Referência: endpoint Responses (recomendado).
+02-documentacao-api,Chat Completions | Inference API - REST API Reference,https://docs.x.ai/developers/rest-api-reference/inference/chat-completions,200 ✅,Referência: endpoint Chat Completions.
+02-documentacao-api,Images | Inference API - REST API Reference,https://docs.x.ai/developers/rest-api-reference/inference/images,200 ✅,Referência: endpoints de imagens.
+02-documentacao-api,Videos | Inference API - REST API Reference,https://docs.x.ai/developers/rest-api-reference/inference/videos,200 ✅,Referência: endpoints de vídeos.
+02-documentacao-api,Voice | Inference API - REST API Reference,https://docs.x.ai/developers/rest-api-reference/inference/voice,200 ✅,Referência: endpoints de voz.
+02-documentacao-api,Speech to Text | Inference API - REST API Reference,https://docs.x.ai/developers/rest-api-reference/inference/speech-to-text,200 ✅,Referência: speech-to-text.
+02-documentacao-api,Batches | Inference API - REST API Reference,https://docs.x.ai/developers/rest-api-reference/inference/batches,200 ✅,Referência: Batches.
+02-documentacao-api,Models | Inference API - REST API Reference,https://docs.x.ai/developers/rest-api-reference/inference/models,200 ✅,Referência: listar modelos.
+02-documentacao-api,Account | Inference API - REST API Reference,https://docs.x.ai/developers/rest-api-reference/inference/other,200 ✅,Referência: conta/outros endpoints.
+02-documentacao-api,Legacy & Deprecated | Inference API - REST API Reference,https://docs.x.ai/developers/rest-api-reference/inference/legacy,200 ✅,Referência: endpoints legados e descontinuados.
+02-documentacao-api,Files API - REST API Reference,https://docs.x.ai/developers/rest-api-reference/files,200 ✅,Referência: Files API.
+02-documentacao-api,Upload Files | Files API - REST API Reference,https://docs.x.ai/developers/rest-api-reference/files/upload,200 ✅,Referência: enviar arquivo.
+02-documentacao-api,Manage Files | Files API - REST API Reference,https://docs.x.ai/developers/rest-api-reference/files/manage,200 ✅,Referência: listar/gerenciar arquivos.
+02-documentacao-api,Download Files | Files API - REST API Reference,https://docs.x.ai/developers/rest-api-reference/files/download,200 ✅,Referência: baixar conteúdo de arquivo.
+02-documentacao-api,Collections API - REST API Reference,https://docs.x.ai/developers/rest-api-reference/collections,200 ✅,Referência: Collections API.
+02-documentacao-api,Collection Management | Collections API - REST API Reference,https://docs.x.ai/developers/rest-api-reference/collections/collection,200 ✅,Referência: gerenciar coleções.
+02-documentacao-api,Search in Collections | Collections API - REST API Reference,https://docs.x.ai/developers/rest-api-reference/collections/search,200 ✅,Referência: buscar em coleções.
+02-documentacao-api,Management API - REST API Reference,https://docs.x.ai/developers/rest-api-reference/management,200 ✅,Referência: Management API.
+02-documentacao-api,Accounts and Authorization | Management API - REST API Reference,https://docs.x.ai/developers/rest-api-reference/management/auth,200 ✅,"Referência: contas, autorização e chaves."
+02-documentacao-api,Billing Management | Management API - REST API Reference,https://docs.x.ai/developers/rest-api-reference/management/billing,200 ✅,Referência: gestão de cobrança.
+02-documentacao-api,Audit Logs | Management API - REST API Reference,https://docs.x.ai/developers/rest-api-reference/management/audit,200 ✅,Referência: logs de auditoria.
+02-documentacao-api,[rótulo] llms.txt,https://docs.x.ai/llms.txt,200 ✅,Índice da documentação em formato para LLMs (cada página tem versão .md).
+02-documentacao-api,[rótulo] llms-full.txt,https://docs.x.ai/llms-full.txt,200 ✅,Toda a documentação concatenada em um markdown (grande).
+02-documentacao-api,[rótulo] OpenAPI specification,https://docs.x.ai/openapi.json,200 ✅,Especificação OpenAPI da API REST (api.x.ai).
+02-documentacao-api,[rótulo] API catalog,https://docs.x.ai/.well-known/api-catalog,200 ✅,Catálogo da API (RFC 9727).
+02-documentacao-api,[rótulo] Sitemap,https://docs.x.ai/sitemap.xml,200 ✅,Sitemap com todas as URLs da documentação.
+03-modelos-e-multimodal,Grok Models & Pricing,https://docs.x.ai/developers/models,200 ✅,"Lista oficial de modelos, contexto e preços por token."
+03-modelos-e-multimodal,Grok 4.7 Developer Guide,https://docs.x.ai/developers/grok-4-7,200 ✅,Guia do desenvolvedor do Grok 4.7 (modelo principal atual).
+03-modelos-e-multimodal,Grok 4.7,https://docs.x.ai/developers/models/grok-4.7,200 ✅,Ficha do modelo grok-4.7.
+03-modelos-e-multimodal,Grok Imagine Image 2.0,https://docs.x.ai/developers/models/grok-imagine-image-2.0,200 ✅,Ficha do modelo de imagem Grok Imagine Image 2.0.
+03-modelos-e-multimodal,Grok Imagine Video 1.5,https://docs.x.ai/developers/models/grok-imagine-video-1.5,200 ✅,Ficha do modelo de vídeo Grok Imagine Video 1.5.
+03-modelos-e-multimodal,Speech to Speech Pricing and Rate Limits,https://docs.x.ai/developers/models/speech-to-speech,200 ✅,Ficha dos modelos speech-to-speech (voz).
+03-modelos-e-multimodal,Speech to Text Pricing and Rate Limits,https://docs.x.ai/developers/models/speech-to-text,200 ✅,Ficha dos modelos de transcrição.
+03-modelos-e-multimodal,Text to Speech Pricing and Rate Limits,https://docs.x.ai/developers/models/text-to-speech,200 ✅,Ficha dos modelos de síntese de voz.
+03-modelos-e-multimodal,"May 15, 2026 Model Retirement",https://docs.x.ai/developers/migration/may-15-retirement,200 ✅,Aposentadoria de modelos em 15/05/2026.
+03-modelos-e-multimodal,"grok-imagine-image-quality Retirement on November 2, 2026",https://docs.x.ai/developers/migration/imagine-image-quality-nov-2,200 ✅,Aposentadoria do grok-imagine-image-quality em 02/11/2026.
+03-modelos-e-multimodal,Imagine Overview,https://docs.x.ai/developers/model-capabilities/imagine,200 ✅,Visão geral do Grok Imagine (imagem e vídeo).
+03-modelos-e-multimodal,Image Generation,https://docs.x.ai/developers/model-capabilities/images/generation,200 ✅,Gerar imagens.
+03-modelos-e-multimodal,Image Editing,https://docs.x.ai/developers/model-capabilities/images/editing,200 ✅,Editar imagens.
+03-modelos-e-multimodal,Multi-Image Editing,https://docs.x.ai/developers/model-capabilities/images/multi-image-editing,200 ✅,Editar com várias imagens de referência.
+03-modelos-e-multimodal,Image Prompting Guide,https://docs.x.ai/developers/model-capabilities/images/prompting-guide,200 ✅,Guia de prompts para imagens.
+03-modelos-e-multimodal,Video Overview: Grok Imagine Video API,https://docs.x.ai/developers/model-capabilities/video/overview,200 ✅,Visão geral da API de vídeo.
+03-modelos-e-multimodal,Video Generation: Grok API Capabilities,https://docs.x.ai/developers/model-capabilities/video/generation,200 ✅,Gerar vídeo a partir de texto.
+03-modelos-e-multimodal,Image-to-Video,https://docs.x.ai/developers/model-capabilities/video/image-to-video,200 ✅,Imagem para vídeo.
+03-modelos-e-multimodal,Reference-to-Video,https://docs.x.ai/developers/model-capabilities/video/reference-to-video,200 ✅,Vídeo a partir de referências.
+03-modelos-e-multimodal,Video Editing,https://docs.x.ai/developers/model-capabilities/video/editing,200 ✅,Editar vídeo.
+03-modelos-e-multimodal,Video Extension,https://docs.x.ai/developers/model-capabilities/video/extension,200 ✅,Estender vídeo.
+03-modelos-e-multimodal,Imagine Files API Integration,https://docs.x.ai/developers/model-capabilities/imagine/files,200 ✅,Integração Imagine ↔ Files API.
+03-modelos-e-multimodal,Referencing Files as Input to Imagine,https://docs.x.ai/developers/model-capabilities/imagine/files/inputs,200 ✅,Usar arquivos armazenados como entrada do Imagine.
+03-modelos-e-multimodal,Persisting Imagine Output to Files,https://docs.x.ai/developers/model-capabilities/imagine/files/outputs,200 ✅,Salvar saídas do Imagine em Files.
+03-modelos-e-multimodal,Voice Overview,https://docs.x.ai/developers/model-capabilities/audio/voice,200 ✅,Visão geral da Voice API.
+03-modelos-e-multimodal,Speech to Speech,https://docs.x.ai/developers/model-capabilities/audio/speech-to-speech,200 ✅,Voz em tempo real (speech-to-speech) para agentes de voz.
+03-modelos-e-multimodal,Prompting Guide,https://docs.x.ai/developers/model-capabilities/audio/speech-to-speech/prompting-guide,200 ✅,Guia de prompts para agentes de voz.
+03-modelos-e-multimodal,SIP Phone Calls,https://docs.x.ai/developers/model-capabilities/audio/speech-to-speech/sip,200 ✅,Chamadas telefônicas via SIP.
+03-modelos-e-multimodal,Text to Speech,https://docs.x.ai/developers/model-capabilities/audio/text-to-speech,200 ✅,Texto para fala (TTS).
+03-modelos-e-multimodal,Speech to Text,https://docs.x.ai/developers/model-capabilities/audio/speech-to-text,200 ✅,Fala para texto (STT/transcrição).
+03-modelos-e-multimodal,Custom Voices,https://docs.x.ai/developers/model-capabilities/audio/custom-voices,200 ✅,Vozes personalizadas.
+03-modelos-e-multimodal,Ephemeral Tokens,https://docs.x.ai/developers/model-capabilities/audio/ephemeral-tokens,200 ✅,Tokens efêmeros para clientes de voz no navegador/app.
+04-ferramentas-e-function-calling,Tools Overview,https://docs.x.ai/developers/tools/overview,200 ✅,Visão geral das ferramentas: built-in (servidor) vs function calling (cliente).
+04-ferramentas-e-function-calling,Function Calling,https://docs.x.ai/developers/tools/function-calling,200 ✅,Function calling: definir funções suas que o Grok pode pedir para executar.
+04-ferramentas-e-function-calling,Web Search,https://docs.x.ai/developers/tools/web-search,200 ✅,Ferramenta Web Search: buscar e navegar na web.
+04-ferramentas-e-function-calling,X Search,https://docs.x.ai/developers/tools/x-search,200 ✅,"Ferramenta X Search: buscar posts, usuários e threads no X."
+04-ferramentas-e-function-calling,Code Execution Tool,https://docs.x.ai/developers/tools/code-execution,200 ✅,Ferramenta Code Execution: rodar Python em sandbox.
+04-ferramentas-e-function-calling,Image Generation Tool,https://docs.x.ai/developers/tools/image-generation,200 ✅,Ferramenta Image Generation dentro da conversa.
+04-ferramentas-e-function-calling,Collections Search Tool,https://docs.x.ai/developers/tools/collections-search,200 ✅,Ferramenta Collections Search (RAG nos seus documentos).
+04-ferramentas-e-function-calling,Remote MCP Tools,https://docs.x.ai/developers/tools/remote-mcp,200 ✅,Remote MCP Tools: conectar servidores MCP externos pela API.
+04-ferramentas-e-function-calling,Citations,https://docs.x.ai/developers/tools/citations,200 ✅,Citações (lista completa e citações inline).
+04-ferramentas-e-function-calling,Streaming & Synchronous Requests,https://docs.x.ai/developers/tools/streaming-and-sync,200 ✅,Ferramentas com streaming vs síncrono.
+04-ferramentas-e-function-calling,Tool Usage Details,https://docs.x.ai/developers/tools/tool-usage-details,200 ✅,"Detalhes: cobrança por chamada, tokens, max_turns, tipos de chamada."
+04-ferramentas-e-function-calling,Advanced Usage,https://docs.x.ai/developers/tools/advanced-usage,200 ✅,"Uso avançado: misturar ferramentas de servidor e cliente, multi-turno."
+04-ferramentas-e-function-calling,Structured Outputs,https://docs.x.ai/developers/model-capabilities/text/structured-outputs,200 ✅,Saídas estruturadas (JSON Schema).
+05-skills-agentes-mcp,Multi Agent,https://docs.x.ai/developers/model-capabilities/text/multi-agent,200 ✅,Multi Agent: vários agentes pesquisando juntos (4 ou 16).
+05-skills-agentes-mcp,Docs MCP,https://docs.x.ai/developers/docs-mcp,200 ✅,Servidor MCP oficial da documentação (para IDEs/agentes).
+05-skills-agentes-mcp,"Skills, Plugins & Marketplaces",https://docs.x.ai/build/features/skills-plugins-marketplaces,200 ✅,"Grok Build: Skills, Plugins, Hooks e Marketplaces."
+05-skills-agentes-mcp,MCP Servers,https://docs.x.ai/build/features/mcp-servers,200 ✅,Grok Build: configurar servidores MCP.
+05-skills-agentes-mcp,Subagents,https://docs.x.ai/build/features/subagents,200 ✅,Grok Build: subagentes (sessões filhas em paralelo).
+05-skills-agentes-mcp,Hooks,https://docs.x.ai/build/features/hooks,200 ✅,Grok Build: hooks em eventos de ferramentas/sessão.
+05-skills-agentes-mcp,AGENTS.md,https://docs.x.ai/build/features/project-rules,200 ✅,Grok Build: instruções de projeto via AGENTS.md.
+05-skills-agentes-mcp,Background Tasks,https://docs.x.ai/build/features/background-tasks,200 ✅,Grok Build: tarefas em segundo plano.
+05-skills-agentes-mcp,Agent Dashboard,https://docs.x.ai/build/features/dashboard,200 ✅,Grok Build: painel de agentes.
+05-skills-agentes-mcp,Skills and routines,https://docs.x.ai/grok-bot/skills-routines-and-automations,200 ✅,Grok Bot: skills e rotinas (agendadas/por evento).
+05-skills-agentes-mcp,Use the computer and apps,https://docs.x.ai/grok-bot/computer-and-apps,200 ✅,Grok Bot: uso do computador na nuvem e apps.
+05-skills-agentes-mcp,Grok Bot inference hooks,https://docs.x.ai/grok-bot/inference-hooks,200 ✅,Grok Bot: inference hooks (empresas).
+05-skills-agentes-mcp,Connectors,https://docs.x.ai/grok/connectors,200 ✅,"Grok app: Connectors (built-in, catálogo e MCP customizado)."
+05-skills-agentes-mcp,Custom MCP Server Tunneling,https://docs.x.ai/grok/connectors/custom-mcp-tunneling,200 ✅,Grok app: expor servidor MCP local via túnel.
+05-skills-agentes-mcp,Google Drive Connector,https://docs.x.ai/grok/connectors/google-drive,200 ✅,Connector Google Drive.
+05-skills-agentes-mcp,Gmail & Google Calendar Connector,https://docs.x.ai/grok/connectors/gmail-google-calendar,200 ✅,Connector Gmail e Google Calendar.
+05-skills-agentes-mcp,Outlook Mail & Calendar Connector,https://docs.x.ai/grok/connectors/outlook,200 ✅,Connector Outlook (e-mail e calendário).
+05-skills-agentes-mcp,SharePoint Connector,https://docs.x.ai/grok/connectors/sharepoint,200 ✅,Connector SharePoint.
+05-skills-agentes-mcp,OneDrive Connector,https://docs.x.ai/grok/connectors/onedrive,200 ✅,Connector OneDrive.
+05-skills-agentes-mcp,Microsoft Teams Connector,https://docs.x.ai/grok/connectors/microsoft-teams,200 ✅,Connector Microsoft Teams.
+05-skills-agentes-mcp,Salesforce Connector,https://docs.x.ai/grok/connectors/salesforce,200 ✅,Connector Salesforce.
+05-skills-agentes-mcp,Connector Management,https://docs.x.ai/grok/connector-management,200 ✅,Gestão de connectors (admins Business/Enterprise).
+05-skills-agentes-mcp,HubSpot MCP Setup,https://docs.x.ai/integrations/hubspot-mcp-setup,200 ✅,Configurar o MCP do HubSpot.
+05-skills-agentes-mcp,[rótulo] MCP server card,https://docs.x.ai/.well-known/mcp/server-card.json,200 ✅,Server card (metadados de conexão) do MCP da documentação.
+05-skills-agentes-mcp,[rótulo] MCP server,https://docs.x.ai/api/mcp,"406 ℹ️ (endpoint MCP, não é página web; esperado)",Endpoint do MCP da documentação (Streamable HTTP; não abre no navegador — responde 406 a GET comum).
+05-skills-agentes-mcp,"Skills in web, iOS, and Android",https://x.ai/news/grok-skills,200 ✅,"Anúncio: Skills no app Grok (web, iOS, Android)."
+05-skills-agentes-mcp,"Connectors in web, iOS, and Android",https://x.ai/news/grok-connectors,200 ✅,Anúncio: Connectors no app Grok.
+05-skills-agentes-mcp,Automations in Grok,https://x.ai/news/grok-automations,200 ✅,Anúncio: Automations (tarefas agendadas ou por e-mail) no Grok.
+05-skills-agentes-mcp,Grok 4.1 Fast and Agent Tools API,https://x.ai/news/grok-4-1-fast,200 ✅,Anúncio: Grok 4.1 Fast e a Agent Tools API (ferramentas de servidor).
+05-skills-agentes-mcp,Grok Build Plugin Marketplace,https://x.ai/news/grok-plugin-marketplace,200 ✅,Anúncio: marketplace de plugins do Grok Build.
+05-skills-agentes-mcp,Workflows in Grok Build,https://x.ai/news/workflows,200 ✅,Anúncio: Workflows no Grok Build (centenas de agentes em paralelo).
+05-skills-agentes-mcp,Introducing /goal,https://x.ai/news/introducing-goal,200 ✅,Anúncio: /goal (execução autônoma longa) no Grok Build.
+05-skills-agentes-mcp,Grok Collections API,https://x.ai/news/grok-collections-api,200 ✅,Anúncio: Collections API (RAG embutido).
+05-skills-agentes-mcp,Connectors - Grok,https://grok.com/connectors,200 ✅,Página de Connectors no grok.com (exige login para usar).
+05-skills-agentes-mcp,Automations - Grok,https://grok.com/automations,200 ✅,Página de Automations no grok.com (exige login para usar).
+06-sdks-e-github,SpaceXSI Org,https://github.com/xai-org,200 ✅,Organização oficial no GitHub (11 repositórios públicos em 24/10/2026).
+06-sdks-e-github,GitHub - xai-org/xai-sdk-python: The official Python SDK for the SpaceXAI API,https://github.com/xai-org/xai-sdk-python,200 ✅,"SDK oficial em Python (gRPC) — inclui ferramentas, MCP, coleções."
+06-sdks-e-github,[rótulo] xai-sdk-python/examples,https://github.com/xai-org/xai-sdk-python/tree/main/examples,200 ✅,Pasta de exemplos do SDK Python.
+06-sdks-e-github,[rótulo] xai-sdk-python/CHANGELOG.md,https://github.com/xai-org/xai-sdk-python/blob/main/CHANGELOG.md,200 ✅,Changelog do SDK Python.
+06-sdks-e-github,GitHub - xai-org/xai-sdk-ts: The official TypeScript SDK for the SpaceXAI API,https://github.com/xai-org/xai-sdk-ts,200 ✅,SDK oficial em TypeScript.
+06-sdks-e-github,GitHub - xai-org/xai-proto: Public protobuf definitions for xAI's gRPC APIs,https://github.com/xai-org/xai-proto,200 ✅,Definições protobuf públicas das APIs gRPC.
+06-sdks-e-github,"GitHub - xai-org/xai-cookbook: A collection of pragmatic, real-world examples guiding you from basic to advanced use of xAI's Grok APIs.",https://github.com/xai-org/xai-cookbook,200 ✅,Cookbook oficial: exemplos práticos do básico ao avançado.
+06-sdks-e-github,[rótulo] xai-cookbook/examples,https://github.com/xai-org/xai-cookbook/tree/main/examples,200 ✅,Pasta de exemplos do cookbook.
+06-sdks-e-github,"GitHub - xai-org/grok-build: SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",https://github.com/xai-org/grok-build,200 ✅,"Código aberto do Grok Build (agente de programação/TUI, Rust)."
+06-sdks-e-github,GitHub - xai-org/plugin-marketplace: Official xAI plugin marketplace,https://github.com/xai-org/plugin-marketplace,200 ✅,"Marketplace oficial de plugins (skills, MCP, hooks) para Grok Build."
+06-sdks-e-github,[rótulo] plugin-marketplace/plugins,https://github.com/xai-org/plugin-marketplace/tree/main/plugins,200 ✅,Pasta de plugins oficiais do marketplace.
+06-sdks-e-github,"GitHub - xai-org/grok-build-plugin-cc: Claude Code plugin that delegates reviews, rescue tasks, and session transfer to the Grok Build CLI",https://github.com/xai-org/grok-build-plugin-cc,200 ✅,Plugin para Claude Code que delega tarefas ao Grok Build CLI.
+06-sdks-e-github,GitHub - xai-org/grok-prompts: Prompts for our Grok chat assistant and the `@grok` bot on X.,https://github.com/xai-org/grok-prompts,200 ✅,Prompts de sistema publicados do Grok e do @grok no X.
+06-sdks-e-github,GitHub - xai-org/grok-1: Grok open release,https://github.com/xai-org/grok-1,200 ✅,Pesos e código do Grok-1 (lançamento aberto de 2024).
+06-sdks-e-github,GitHub - xai-org/x-algorithm: Algorithm powering the For You feed on X,https://github.com/xai-org/x-algorithm,200 ✅,Algoritmo do feed 'For You' do X (publicado pela org).
+06-sdks-e-github,GitHub - xai-org/community-writer: Community driven AI writer for Community Notes,https://github.com/xai-org/community-writer,200 ✅,Escritor de IA para Community Notes.
+06-sdks-e-github,xai-org/grok-1 · Hugging Face,https://huggingface.co/xai-org/grok-1,200 ✅,Grok-1 na Hugging Face (conta xai-org).
+06-sdks-e-github,[rótulo] PyPI: xai-sdk,https://pypi.org/project/xai-sdk/,200 ⚠️ (página de desafio anti-bot; conteúdo não lido),Pacote xai-sdk no PyPI (página respondeu com desafio anti-bot; título real não lido).
+06-sdks-e-github,Community Integrations,https://docs.x.ai/developers/community,200 ✅,Integrações de plataforma (página 'Community Integrations' oficial).
+06-sdks-e-github,Google Cloud Vertex AI,https://docs.x.ai/developers/community/google-cloud-vertex-ai,200 ✅,Usar Grok no Google Cloud Vertex AI.
+06-sdks-e-github,Microsoft Foundry,https://docs.x.ai/developers/community/microsoft-foundry,200 ✅,Usar Grok no Microsoft Foundry.
+07-cookbook-exemplos,Cookbook,https://docs.x.ai/cookbook,200 ✅,Índice do Cookbook oficial na documentação.
+07-cookbook-exemplos,Read Aloud with Word Highlighting: Text to Speech with the Grok API,https://docs.x.ai/cookbook/examples/article-to-read-along,200 ✅,Artigo vira áudio com destaque palavra a palavra (TTS com timestamps).
+07-cookbook-exemplos,Real-Time Voice Translation: Live Interpreter with the Grok API,https://docs.x.ai/cookbook/examples/live-interpreter,200 ✅,Intérprete ao vivo entre idiomas (voz em tempo real + token efêmero).
+07-cookbook-exemplos,AI Talking Photo: Make a Picture Talk with Grok Imagine,https://docs.x.ai/cookbook/examples/photo-to-talking-character,200 ✅,Foto/desenho vira personagem falante (Imagine reference-to-video).
+07-cookbook-exemplos,AI Podcast Generator: Turn Any Article into a Podcast with the Grok API,https://docs.x.ai/cookbook/examples/podcast-from-a-link,200 ✅,Artigo/PDF vira podcast de dois apresentadores.
+07-cookbook-exemplos,Screenshot to Code: Generate React Components with the Grok API,https://docs.x.ai/cookbook/examples/screenshot-to-component,200 ✅,Screenshot de UI vira componente React/Tailwind.
+07-cookbook-exemplos,AI Sales Call Prep: Research an Account with the Grok API,https://docs.x.ai/cookbook/examples/company-to-call-brief,200 ✅,Briefing de vendas com web + X search + funções de CRM (function calling).
+07-cookbook-exemplos,AI Data Analyst: Ask Questions about a CSV with the Grok API,https://docs.x.ai/cookbook/examples/csv-to-answers,200 ✅,Perguntas sobre CSV com Code Execution (pandas + gráfico).
+07-cookbook-exemplos,Chat with Your Database: SQLite MCP Server with the Grok API,https://docs.x.ai/cookbook/examples/database-over-mcp,200 ✅,Banco SQLite servido como MCP somente leitura.
+07-cookbook-exemplos,RAG with Citations: Answer from Your Documents with the Grok API,https://docs.x.ai/cookbook/examples/docs-to-cited-answers,200 ✅,Respostas com citações sobre documentos (Collections + filtro de metadados).
+07-cookbook-exemplos,Mobile Voice Assistant: iOS and Android Apps with the Grok API,https://docs.x.ai/cookbook/examples/voice-agent-mobile,200 ✅,Apps nativos iOS/Android de voz em tempo real.
+07-cookbook-exemplos,AI Phone Agent: Answer Calls with Twilio and the Grok API,https://docs.x.ai/cookbook/examples/voice-agent-phone,200 ✅,Agente de voz por telefone (Twilio).
+07-cookbook-exemplos,AI Time-Lapse Generator: Turn a Photo into a Video with Grok Imagine,https://docs.x.ai/cookbook/examples/photo-to-time-lapse,200 ✅,Uma foto vira time-lapse (edições + vídeo Imagine).
+07-cookbook-exemplos,AI Video Ad Generator: Product Photo to Video with Grok Imagine,https://docs.x.ai/cookbook/examples/product-video-ad,200 ✅,Foto de produto vira anúncio em vídeo com locução.
+07-cookbook-exemplos,Prompt Caching: Cut the Cost of Long Chats with the Grok API,https://docs.x.ai/cookbook/examples/prompt-caching,200 ✅,Demonstração prática do que o prompt caching economiza.
+07-cookbook-exemplos,Prompt Injection Defense: Protect AI Agents with the Grok API,https://docs.x.ai/cookbook/examples/prompt-injection-defenses,200 ✅,Defesas contra prompt injection em agentes.
+07-cookbook-exemplos,LLM Evals: Find the Right Reasoning Effort with the Grok API,https://docs.x.ai/cookbook/examples/reasoning-effort-evals,200 ✅,Avaliar o menor reasoning effort que ainda é bom.
+07-cookbook-exemplos,AI Receipt Scanner: Receipts to a Spreadsheet with the Grok API,https://docs.x.ai/cookbook/examples/receipts-to-spreadsheet,200 ✅,Recibos/notas viram planilha verificada.
+07-cookbook-exemplos,AI Review Analysis: Find Themes in Customer Feedback with the Grok API,https://docs.x.ai/cookbook/examples/reviews-to-themes,200 ✅,Mil avaliações viram temas ranqueados (Batch API).
+07-cookbook-exemplos,AI Short Film Generator: Premise to Video with Grok Imagine,https://docs.x.ai/cookbook/examples/storyboard-to-film,200 ✅,Premissa vira curta de 4 cenas (Imagine + narração).
+07-cookbook-exemplos,AI News Briefing: Daily Audio from 𝕏 and the Web with the Grok API,https://docs.x.ai/cookbook/examples/topics-to-morning-briefing,200 ✅,Briefing matinal falado a partir do X e da web.
+07-cookbook-exemplos,Web Voice Assistant: Browser Voice Agent with the Grok API,https://docs.x.ai/cookbook/examples/voice-agent-web,200 ✅,Agente de voz web (React + backends Python/Node via WebSocket).
+07-cookbook-exemplos,AI Fact-Checker: Check Posts on 𝕏 with the Grok API,https://docs.x.ai/cookbook/examples/x-post-fact-check,200 ✅,Checagem de fatos de um post do X com citações.
+07-cookbook-exemplos,Social Media Sentiment Tracker: Posts on 𝕏 with the Grok API,https://docs.x.ai/cookbook/examples/x-sentiment-tracker,200 ✅,Painel de sentimento sobre um tema com X Search.
+07-cookbook-exemplos,AI Coding Agent: Turn a Bug Report into a Fix with the Grok API,https://docs.x.ai/cookbook/examples/bug-report-to-fix,200 ✅,"Agente reproduz bug com teste, corrige e roda testes."
+07-cookbook-exemplos,AI Meeting Notes: Live Transcripts and Action Items with the Grok API,https://docs.x.ai/cookbook/examples/meeting-to-action-items,200 ✅,Legenda de reunião ao vivo + decisões e tarefas.
+07-cookbook-exemplos,Human-in-the-Loop AI Agent: Approve Refunds with the Grok API,https://docs.x.ai/cookbook/examples/refund-agent-human-approval,200 ✅,Agente de reembolso que pausa para aprovação humana.
+07-cookbook-exemplos,AI Video Dubbing: Dub a Video into Another Language with the Grok API,https://docs.x.ai/cookbook/examples/video-dubbing,200 ✅,Dublagem de vídeo sincronizada.
+07-cookbook-exemplos,WebRTC Voice Agent: Low-Latency Voice AI with the Grok API,https://docs.x.ai/cookbook/examples/voice-agent-webrtc,200 ✅,Agente de voz de baixa latência via WebRTC.
+08-produto-grok-app-e-grok-bot,Grok,https://grok.com/,200 ✅,App web do Grok (chat).
+08-produto-grok-app-e-grok-bot,Grok,https://grok.com/chat,200 ✅,Iniciar um chat no grok.com.
+08-produto-grok-app-e-grok-bot,Grok Imagine,https://grok.com/imagine,200 ✅,Grok Imagine no app (gerar imagens/vídeos).
+08-produto-grok-app-e-grok-bot,Projects - Grok,https://grok.com/project,200 ✅,Projects no grok.com (exige login).
+08-produto-grok-app-e-grok-bot,Grok Imagine — AI Image & Video Generator,https://grok.com/supergrok/imagine,200 ✅ (redireciona → https://grok.com/subscription/imagine),Página de assinatura do Imagine (redireciona para /subscription/imagine).
+08-produto-grok-app-e-grok-bot,[rótulo] Ajuda do X: About Grok,https://help.x.com/en/using-x/about-grok,403 ⚠️ (bloqueio anti-bot à verificação automática; link mantido),Central de Ajuda do X sobre o Grok dentro do X (bloqueou verificação automática: 403).
+08-produto-grok-app-e-grok-bot,Welcome to Grok,https://docs.x.ai/grok/overview,200 ✅,Boas-vindas ao Grok (o que dá para fazer no app).
+08-produto-grok-app-e-grok-bot,FAQ - Grok Website / Apps,https://docs.x.ai/grok/faq,200 ✅,"FAQ do site/apps do Grok (planos, limites, Imagine, Companions etc.)."
+08-produto-grok-app-e-grok-bot,Grok Business Guide,https://docs.x.ai/grok/user-guide,200 ✅,Guia Business & Enterprise.
+08-produto-grok-app-e-grok-bot,Manage Licenses and Users,https://docs.x.ai/grok/management,200 ✅,Gestão de licenças e usuários.
+08-produto-grok-app-e-grok-bot,Organization Management,https://docs.x.ai/grok/organization,200 ✅,Gestão da organização.
+08-produto-grok-app-e-grok-bot,Grok Bot,https://docs.x.ai/grok-bot/overview,200 ✅,Visão geral do Grok Bot.
+08-produto-grok-app-e-grok-bot,Get started,https://docs.x.ai/grok-bot/get-started,200 ✅,Primeiros passos com o Grok Bot.
+08-produto-grok-app-e-grok-bot,Use cases,https://docs.x.ai/grok-bot/use-cases,200 ✅,Casos de uso do Grok Bot.
+08-produto-grok-app-e-grok-bot,Grok Bot for Mobile,https://docs.x.ai/grok-bot/mobile,200 ✅,Grok Bot no celular.
+08-produto-grok-app-e-grok-bot,Create and manage Bots,https://docs.x.ai/grok-bot/bots,200 ✅,Trabalhar com Bots.
+08-produto-grok-app-e-grok-bot,Team Bots,https://docs.x.ai/grok-bot/team-bots,200 ✅,Team Bots (bots compartilhados com o time).
+08-produto-grok-app-e-grok-bot,Message and collaborate,https://docs.x.ai/grok-bot/chat-and-collaboration,200 ✅,Mensagens e colaboração.
+08-produto-grok-app-e-grok-bot,Tag @bot on X,https://docs.x.ai/grok-bot/tag-on-x,200 ✅,Marcar o @bot no X.
+08-produto-grok-app-e-grok-bot,Files and results,https://docs.x.ai/grok-bot/files-and-results,200 ✅,Arquivos e resultados.
+08-produto-grok-app-e-grok-bot,Settings and notifications,https://docs.x.ai/grok-bot/settings-and-notifications,200 ✅,Configurações e notificações.
+08-produto-grok-app-e-grok-bot,"Approvals, security, and privacy",https://docs.x.ai/grok-bot/approvals-security-and-privacy,200 ✅,"Aprovações, segurança e privacidade."
+08-produto-grok-app-e-grok-bot,Grok Bot for teams and enterprises,https://docs.x.ai/grok-bot/teams-and-enterprises,200 ✅,Grok Bot para times e empresas.
+08-produto-grok-app-e-grok-bot,Deploy Grok Bot to your organization,https://docs.x.ai/grok-bot/deployment,200 ✅,Implantar na organização.
+08-produto-grok-app-e-grok-bot,Configure identity and access,https://docs.x.ai/grok-bot/identity-and-access,200 ✅,Identidade e acesso.
+08-produto-grok-app-e-grok-bot,Connect to private networks,https://docs.x.ai/grok-bot/private-networks,200 ✅,Conectar a redes privadas.
+08-produto-grok-app-e-grok-bot,Configure TLS-inspecting proxies,https://docs.x.ai/grok-bot/proxies,200 ✅,Proxies com inspeção TLS.
+08-produto-grok-app-e-grok-bot,Manage Grok Bot computers,https://docs.x.ai/grok-bot/computers,200 ✅,Gerenciar computadores.
+08-produto-grok-app-e-grok-bot,Grok Bot security,https://docs.x.ai/grok-bot/security,200 ✅,Segurança do Grok Bot.
+08-produto-grok-app-e-grok-bot,Grok Bot security FAQ,https://docs.x.ai/grok-bot/security-faq,200 ✅,FAQ de segurança do Grok Bot.
+08-produto-grok-app-e-grok-bot,Troubleshooting,https://docs.x.ai/grok-bot/troubleshooting,200 ✅,Solução de problemas.
+08-produto-grok-app-e-grok-bot,Frequently asked questions,https://docs.x.ai/grok-bot/faq,200 ✅,FAQ do Grok Bot.
+08-produto-grok-app-e-grok-bot,Routines,https://cursor.com/help/grok-bot/routines,200 ✅,Ajuda sobre Routines do Grok Bot (hospedada em cursor.com; linkada pela doc oficial).
+09-grok-build-cli,Grok Build: SpaceXSI's Coding Agent,https://docs.x.ai/build/overview,200 ✅,"Visão geral do Grok Build (instalação, TUI, headless)."
+09-grok-build-cli,Modes and Commands,https://docs.x.ai/build/modes-and-commands,200 ✅,Modos e comandos.
+09-grok-build-cli,Keyboard Shortcuts,https://docs.x.ai/build/keyboard-shortcuts,200 ✅,Atalhos de teclado.
+09-grok-build-cli,Sessions,https://docs.x.ai/build/features/sessions,200 ✅,Sessões.
+09-grok-build-cli,Plan Mode,https://docs.x.ai/build/features/plan-mode,200 ✅,Plan Mode (planejar antes de executar).
+09-grok-build-cli,Permissions,https://docs.x.ai/build/features/permissions,200 ✅,Permissões de ferramentas.
+09-grok-build-cli,Sandbox,https://docs.x.ai/build/features/sandbox,200 ✅,Sandbox.
+09-grok-build-cli,Worktrees,https://docs.x.ai/build/features/worktrees,200 ✅,Worktrees do git.
+09-grok-build-cli,Status Line,https://docs.x.ai/build/features/status-line,200 ✅,Status line.
+09-grok-build-cli,Theming,https://docs.x.ai/build/features/theming,200 ✅,Temas.
+09-grok-build-cli,Settings,https://docs.x.ai/build/settings,200 ✅,Configurações.
+09-grok-build-cli,Settings Reference,https://docs.x.ai/build/settings/reference,200 ✅,Referência de configurações.
+09-grok-build-cli,Video Output Storage under ZDR,https://docs.x.ai/build/settings/zdr-video-storage,200 ✅,Armazenamento de vídeo sob ZDR.
+09-grok-build-cli,Headless & Scripting,https://docs.x.ai/build/cli/headless-scripting,200 ✅,Uso headless e em scripts.
+09-grok-build-cli,CLI Reference,https://docs.x.ai/build/cli/reference,200 ✅,Referência da CLI.
+09-grok-build-cli,Terminal Support,https://docs.x.ai/build/cli/terminal-support,200 ✅,Terminais suportados.
+09-grok-build-cli,Enterprise Deployments,https://docs.x.ai/build/enterprise,200 ✅,Implantações enterprise.
+10-precos-e-limites,API Pricing,https://docs.x.ai/developers/pricing,200 ✅,"Preços da API: tokens, ferramentas, Imagine, voz, arquivos."
+10-precos-e-limites,Rate Limits,https://docs.x.ai/developers/rate-limits,200 ✅,Limites de taxa (rate limits) da API.
+10-precos-e-limites,Pricing: Compare Plans,https://x.ai/pricing,200 ✅,Comparar planos (consumidor/empresa).
+10-precos-e-limites,Plans - Grok,https://grok.com/plans,200 ✅,Planos do Grok (SuperGrok etc.).
+10-precos-e-limites,Plans - Grok,https://grok.com/plans/business,200 ✅,Planos Business.
+10-precos-e-limites,What is The X Subscription?,https://docs.x.ai/x-subscription/overview,200 ✅,A assinatura X (unificação de contas/planos).
+10-precos-e-limites,Pricing,https://docs.x.ai/x-subscription/pricing,200 ✅,Planos e uso.
+10-precos-e-limites,Usage limits,https://docs.x.ai/x-subscription/usage-limits,200 ✅,Limites de uso.
+10-precos-e-limites,Extra usage credits and top-ups,https://docs.x.ai/x-subscription/extra-usage,200 ✅,Créditos de uso extra e recargas.
+10-precos-e-limites,Prepaid balance and automatic top-ups,https://docs.x.ai/x-subscription/prepaid-balance,200 ✅,Saldo pré-pago e recarga automática.
+10-precos-e-limites,Spending caps: monthly extra-usage caps and alerts,https://docs.x.ai/x-subscription/spending-caps,200 ✅,Tetos de gasto e alertas.
+10-precos-e-limites,Cursor Token Rate,https://docs.x.ai/x-subscription/cursor-token-rate,200 ✅,Cursor Token Rate.
+10-precos-e-limites,Managing The X Subscription,https://docs.x.ai/x-subscription/manage,200 ✅,Gerenciar assinatura.
+10-precos-e-limites,"Team plans: workspaces, seats, and invites",https://docs.x.ai/x-subscription/team-plans,200 ✅,"Planos de time, assentos e convites."
+10-precos-e-limites,The X Subscription FAQ,https://docs.x.ai/x-subscription/faq,200 ✅,FAQ da assinatura.
+11-noticias-e-changelog,Release Notes,https://docs.x.ai/developers/release-notes,200 ✅,Release notes da API (mudanças mês a mês).
+11-noticias-e-changelog,"News: Research, Product & Company Updates",https://x.ai/news,200 ✅,Todas as notícias oficiais.
+11-noticias-e-changelog,SpaceXSI Console Changelog,https://x.ai/api/changelog,200 ✅,Changelog do Console.
+11-noticias-e-changelog,Grok Build Changelog,https://x.ai/changelog/build,200 ✅,Changelog do Grok Build.
+11-noticias-e-changelog,Grok Bot Changelog,https://x.ai/changelog/bot,200 ✅,Changelog do Grok Bot.
+11-noticias-e-changelog,Introducing Grok 4.7,https://x.ai/news/grok-4-7,200 ✅,Lançamento do Grok 4.7.
+11-noticias-e-changelog,Introducing Grok 4.6,https://x.ai/news/grok-4-6,200 ✅,Lançamento do Grok 4.6.
+11-noticias-e-changelog,Introducing Grok 4.5,https://x.ai/news/grok-4-5,200 ✅,Lançamento do Grok 4.5.
+11-noticias-e-changelog,Introducing Grok Voice 3.0,https://x.ai/news/grok-voice-3,200 ✅,Lançamento do Grok Voice 3.0.
+11-noticias-e-changelog,Grok Voice Agent API,https://x.ai/news/grok-voice-agent-api,200 ✅,Lançamento da Voice Agent API.
+11-noticias-e-changelog,Introducing the Voice Agent Builder,https://x.ai/news/grok-voice-agent-builder,200 ✅,Lançamento do Voice Agent Builder.
+11-noticias-e-changelog,Grok Speech to Text and Text to Speech APIs,https://x.ai/news/grok-stt-and-tts-apis,200 ✅,APIs de STT e TTS.
+11-noticias-e-changelog,Custom Voices,https://x.ai/news/grok-custom-voices,200 ✅,Vozes personalizadas.
+11-noticias-e-changelog,Grok Imagine API,https://x.ai/news/grok-imagine-api,200 ✅,Lançamento da API Imagine.
+11-noticias-e-changelog,Imagine Image 2.0,https://x.ai/news/grok-imagine-image-2,200 ✅,Imagine Image 2.0.
+11-noticias-e-changelog,Grok Imagine Video 1.5,https://x.ai/news/grok-imagine-video-1-5,200 ✅,Imagine Video 1.5.
+11-noticias-e-changelog,Introducing Grok Bot,https://x.ai/news/introducing-grok-bot,200 ✅,Lançamento do Grok Bot.
+11-noticias-e-changelog,Team Bots: shared AI teammates that learn as they work,https://x.ai/news/team-bots,200 ✅,Team Bots.
+11-noticias-e-changelog,Introducing Grok Build,https://x.ai/news/grok-build-cli,200 ✅,Lançamento do Grok Build.
+11-noticias-e-changelog,Grok Build is Now Open Source,https://x.ai/news/grok-build-open-source,200 ✅,Grok Build vira open source.
+11-noticias-e-changelog,Introducing Build Mode,https://x.ai/news/grok-build-mode,200 ✅,Build Mode no app Grok.
+11-noticias-e-changelog,Agent Dashboard in Grok Build,https://x.ai/news/agent-dashboard,200 ✅,Agent Dashboard no Grok Build.
+11-noticias-e-changelog,Memory in Grok Build,https://x.ai/news/grok-build-memory,200 ✅,Memória no Grok Build.
+11-noticias-e-changelog,Introducing Grok Business and Grok Enterprise,https://x.ai/news/grok-business,200 ✅,Grok Business e Enterprise.
+11-noticias-e-changelog,Introducing The X Subscription,https://x.ai/news/x-subscription,200 ✅,Assinatura X.
+11-noticias-e-changelog,Grok 4,https://x.ai/news/grok-4,200 ✅,Grok 4 (histórico).
+11-noticias-e-changelog,Grok 4.1,https://x.ai/news/grok-4-1,200 ✅,Grok 4.1 (histórico).
+11-noticias-e-changelog,Grok Code Fast 1,https://x.ai/news/grok-code-fast-1,200 ✅,Grok Code Fast 1 (histórico).
+11-noticias-e-changelog,Open Release of Grok-1,https://x.ai/news/grok-os,200 ✅,Lançamento aberto do Grok-1 (histórico).
+12-comunidade-e-terceiros-nao-oficial,xAI Grok,https://ai-sdk.dev/providers/ai-sdk-providers/xai,200 ✅,[TERCEIRO] Provider xAI do Vercel AI SDK (usado nos exemplos da doc oficial).
+12-comunidade-e-terceiros-nao-oficial,[rótulo] npm: @ai-sdk/xai,https://www.npmjs.com/package/@ai-sdk/xai,403 ⚠️ (bloqueio anti-bot à verificação automática; link mantido),[TERCEIRO] Pacote npm @ai-sdk/xai (bloqueou verificação: 403).
+12-comunidade-e-terceiros-nao-oficial,What is the Model Context Protocol (MCP)? - Model Context Protocol,https://modelcontextprotocol.io/,200 ✅ (redireciona → https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro),"[PADRÃO ABERTO] Site do Model Context Protocol (MCP), linkado pela doc oficial."
+12-comunidade-e-terceiros-nao-oficial,Grok (chatbot) - Wikipedia,https://en.wikipedia.org/wiki/Grok_(chatbot),200 ✅,[NÃO OFICIAL] Artigo da Wikipédia sobre o Grok.

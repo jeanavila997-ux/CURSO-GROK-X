@@ -1,7 +1,7 @@
 {
   "curso": "Curso GROK",
   "versao": "1.0.0",
-  "atualizado": "2026-10-23",
+  "atualizado": "2026-10-24b",
   "modulos": [
     {
       "id": "plano",
@@ -151,6 +151,36 @@
       "aulas": [
         { "id": "bot-1", "titulo": "Grok no X vs Grok Build CLI", "minutos": 10 },
         { "id": "bot-2", "titulo": "Ideias de bot para o Jean", "minutos": 12 }
+      ]
+    },
+    {
+      "id": "learn",
+      "numero": "12",
+      "titulo": "Learn (afinar o harness)",
+      "pasta": "12-learn",
+      "icone": "🧠",
+      "cor": "#f97316",
+      "resumo": "Comando /learn: ler sessões, achar padrões e ajustar skills/plugins/MCP com curadoria.",
+      "aulas": [
+        { "id": "learn-1", "titulo": "O que o /learn faz (pipeline)", "minutos": 10 },
+        { "id": "learn-2", "titulo": "Plano da 1ª execução nesta máquina", "minutos": 15 },
+        { "id": "learn-3", "titulo": "Curadoria step e regras de ouro", "minutos": 12 }
+      ]
+    },
+    {
+      "id": "documentos",
+      "numero": "13",
+      "titulo": "Documentos oficiais",
+      "pasta": "13-documentos",
+      "icone": "📎",
+      "cor": "#64748b",
+      "resumo": "333 links oficiais + análise de ferramentas + COMANDOS.md + guia WinGet find grok — verificado 24/10/2026.",
+      "aulas": [
+        { "id": "doc-1", "titulo": "Mapa de links (README + index.html)", "minutos": 12 },
+        { "id": "doc-2", "titulo": "Análise: skills, tools e function calling", "minutos": 20 },
+        { "id": "doc-3", "titulo": "COMANDOS: install, auth, MCP, Windows", "minutos": 25 },
+        { "id": "doc-4", "titulo": "Categorias 01–12 (links/)", "minutos": 15 },
+        { "id": "doc-5", "titulo": "WinGet: pacotes Grok (xAI vs coincidências)", "minutos": 15 }
       ]
     }
   ],

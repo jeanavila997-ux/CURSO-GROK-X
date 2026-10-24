@@ -27,6 +27,8 @@ Portal de aprendizagem completo sobre **Grok**, **Grok Bot**, **MCP**, workflows
 | `09-conexoes-livre` | X, Grok, SpaceX, empresas Elon |
 | `10-comandos-slash` | Menu `/` com 100+ opções |
 | `11-grok-bot` | Bot no X vs CLI |
+| `12-learn` | `/learn`: plano da 1ª execução e curadoria do harness |
+| `13-documentos` | 333 links oficiais + análise + `COMANDOS.md` + guia `WINGET-PACOTES-GROK.md` |
 | `assets/` | CSS + JS do portal |
 | `data/` | JSON dos módulos |
 
