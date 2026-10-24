@@ -33,7 +33,7 @@ function safeJoin(root, reqPath) {
   const decoded = decodeURIComponent((reqPath || "/").split("?")[0]);
   const clean = path.normalize(decoded).replace(/^([/\\])+/, "");
   const full = path.join(root, clean || "index.html");
-  if (!full.startsWith(root)) return null;
+  if (full !== root && !full.startsWith(root + path.sep)) return null; // bloqueia ../pasta-vizinha
   return full;
 }
 
